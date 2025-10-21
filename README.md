@@ -22,8 +22,8 @@ II. Redriect 방식
   //localhost8001 html -> localhost8002 CONTROLLER ->localhost8002 VIEW
 
 III. REST 방식
-1.get 조회 // 성공, 메모리저장방식
-2.post 생성
+1.get 조회 
+2.post 생성  성공 
 3.put 수정
 4.delete 삭제
 5.patch 부분수정
